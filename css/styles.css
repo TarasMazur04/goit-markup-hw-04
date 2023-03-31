@@ -456,13 +456,12 @@ body {
 
 /* -------------Footer------------------------- */
 .footer {
-  padding: 101.5px 0;
+  padding: 100px 0;
   background: var(--dark);
 }
 
 .footer-wrap {
   display: flex;
-  align-items: center;
 }
 
 .footer-top {
@@ -473,7 +472,7 @@ body {
 .footer-logo {
   display: flex;
   padding: 0;
-  margin-bottom: 17.5px;
+  margin-bottom: 16px;
 }
 .studio {
   color: var(--light);
